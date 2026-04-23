@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 import csv
 import os
 import json
-
+#AI helped us with incorporation of json and csv files which was like 5 lines of code total throughout
 meals_csv = "meals.csv"
 votes_json = "votes.json"
 past_json = "history.json"
